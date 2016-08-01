@@ -24,6 +24,7 @@
             app:expandedTitleMarginEnd="64dp">
 
             <ImageView
+                android:background="@drawable/background_one"
                 android:id="@+id/backdrop"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
