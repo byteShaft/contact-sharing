@@ -38,16 +38,16 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/name_textview_title"
+                        android:id="@+id/name_text_view_title"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
-                        android:text="Name"
+                        android:text="Full Name"
                         android:textColor="#000"
                         android:textSize="20dp" />
 
                     <TextView
-                        android:id="@+id/name_textview_action"
+                        android:id="@+id/name_text_view_action"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="15dp"
@@ -79,7 +79,7 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/address_textview_title"
+                        android:id="@+id/address_text_view_title"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
@@ -88,7 +88,7 @@
                         android:textSize="20dp" />
 
                     <TextView
-                        android:id="@+id/address_textview_action"
+                        android:id="@+id/address_text_view_action"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="15dp"
@@ -121,7 +121,7 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/job_title_textview_title"
+                        android:id="@+id/job_title_text_view_title"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
@@ -130,7 +130,7 @@
                         android:textSize="20dp" />
 
                     <TextView
-                        android:id="@+id/jon_title_textview_action"
+                        android:id="@+id/job_title_text_view_action"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="15dp"
@@ -164,7 +164,7 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/jobzi_id_textview_title"
+                        android:id="@+id/jobzi_id_text_view_title"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
@@ -173,7 +173,7 @@
                         android:textSize="20dp" />
 
                     <TextView
-                        android:id="@+id/jobzi_id_textview_action"
+                        android:id="@+id/jobzi_id_text_view_action"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="15dp"
@@ -206,7 +206,7 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/contact_number_textview_title"
+                        android:id="@+id/contact_number_text_view_title"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
@@ -215,7 +215,7 @@
                         android:textSize="20dp" />
 
                     <TextView
-                        android:id="@+id/contact_number_textview_action"
+                        android:id="@+id/contact_number_text_view_action"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="15dp"
@@ -248,7 +248,7 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/email_textview_title"
+                        android:id="@+id/email_text_view_title"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
@@ -257,7 +257,7 @@
                         android:textSize="20dp" />
 
                     <TextView
-                        android:id="@+id/email_textview_action"
+                        android:id="@+id/email_text_view_action"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="15dp"
@@ -290,7 +290,7 @@
                     android:orientation="vertical">
 
                     <TextView
-                        android:id="@+id/company_textview_title"
+                        android:id="@+id/company_text_view_title"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
@@ -299,7 +299,7 @@
                         android:textSize="20dp" />
 
                     <TextView
-                        android:id="@+id/company_textview_action"
+                        android:id="@+id/company_text_view_action"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:layout_marginBottom="15dp"
