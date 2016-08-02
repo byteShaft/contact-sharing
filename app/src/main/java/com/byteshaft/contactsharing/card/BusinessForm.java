@@ -25,7 +25,7 @@ import com.byteshaft.contactsharing.R;
 import com.byteshaft.contactsharing.database.CardsDatabase;
 import com.byteshaft.contactsharing.utils.AppGlobals;
 import com.byteshaft.contactsharing.utils.Helpers;
-import com.github.siyamed.shapeimageview.CircularImageView;
+import com.mikhaellopez.circularimageview.CircularImageView;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

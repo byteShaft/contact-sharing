@@ -141,7 +141,7 @@ public class Helpers  {
             case AppGlobals.KEY_FULL_NAME:
                 return R.mipmap.male;
             case AppGlobals.KEY_ADDRESS:
-                return R.drawable.address;
+                return R.mipmap.address;
             case AppGlobals.KEY_JOB_TITLE:
                 return R.drawable.job_title;
             case AppGlobals.KEY_JOBZY_ID:

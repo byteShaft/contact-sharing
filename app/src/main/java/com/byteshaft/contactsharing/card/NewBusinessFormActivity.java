@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import com.byteshaft.contactsharing.R;
 import com.byteshaft.contactsharing.utils.AppGlobals;
-import com.github.siyamed.shapeimageview.CircularImageView;
+import com.mikhaellopez.circularimageview.CircularImageView;
 
 public class NewBusinessFormActivity extends AppCompatActivity {
 

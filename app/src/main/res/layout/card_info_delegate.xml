@@ -12,14 +12,12 @@
         android:layout_height="wrap_content"
         android:clickable="true">
 
-        <com.github.siyamed.shapeimageview.CircularImageView
+        <com.mikhaellopez.circularimageview.CircularImageView
             android:id="@+id/field_image"
             android:layout_width="45dp"
             android:layout_height="45dp"
             android:layout_gravity="end"
-            android:layout_margin="10dp"
-            app:siBorderColor="#fff"
-            app:siBorderWidth="1dp" />
+            android:layout_margin="10dp" />
 
 
         <LinearLayout
