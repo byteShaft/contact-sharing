@@ -63,16 +63,13 @@
                 android:layout_height="wrap_content"
                 android:clickable="true">
 
-                <com.github.siyamed.shapeimageview.CircularImageView
+                <com.mikhaellopez.circularimageview.CircularImageView
                     android:id="@+id/address_image"
                     android:layout_width="45dp"
                     android:layout_height="45dp"
                     android:layout_gravity="end"
                     android:layout_margin="10dp"
-                    android:src="@mipmap/address"
-                    app:siBorderColor="#fff"
-                    app:siBorderWidth="1dp" />
-
+                    android:src="@mipmap/address"/>
 
                 <LinearLayout
                     android:id="@+id/layout_address"
@@ -107,15 +104,13 @@
                 android:layout_height="wrap_content"
                 android:clickable="true">
 
-                <com.github.siyamed.shapeimageview.CircularImageView
+                <com.mikhaellopez.circularimageview.CircularImageView
                     android:id="@+id/job_title_image"
                     android:layout_width="45dp"
                     android:layout_height="45dp"
                     android:layout_gravity="end"
                     android:layout_margin="10dp"
-                    android:src="@mipmap/job_title"
-                    app:siBorderColor="#fff"
-                    app:siBorderWidth="1dp" />
+                    android:src="@mipmap/job_title"/>
 
 
                 <LinearLayout
@@ -152,15 +147,13 @@
                 android:layout_height="wrap_content"
                 android:clickable="true">
 
-                <com.github.siyamed.shapeimageview.CircularImageView
+                <com.mikhaellopez.circularimageview.CircularImageView
                     android:id="@+id/jobzi_id_image"
                     android:layout_width="45dp"
                     android:layout_height="45dp"
                     android:layout_gravity="end"
                     android:layout_margin="10dp"
-                    android:src="@mipmap/jobzi_id"
-                    app:siBorderColor="#fff"
-                    app:siBorderWidth="1dp" />
+                    android:src="@mipmap/jobzi_id" />
 
 
                 <LinearLayout
@@ -196,15 +189,13 @@
                 android:layout_height="wrap_content"
                 android:clickable="true">
 
-                <com.github.siyamed.shapeimageview.CircularImageView
+                <com.mikhaellopez.circularimageview.CircularImageView
                     android:id="@+id/contact_number_image"
                     android:layout_width="45dp"
                     android:layout_height="45dp"
                     android:layout_gravity="end"
                     android:layout_margin="10dp"
-                    android:src="@mipmap/phone"
-                    app:siBorderColor="#fff"
-                    app:siBorderWidth="1dp" />
+                    android:src="@mipmap/phone" />
 
 
                 <LinearLayout
@@ -240,15 +231,13 @@
                 android:layout_height="wrap_content"
                 android:clickable="true">
 
-                <com.github.siyamed.shapeimageview.CircularImageView
+                <com.mikhaellopez.circularimageview.CircularImageView
                     android:id="@+id/email_image"
                     android:layout_width="45dp"
                     android:layout_height="45dp"
                     android:layout_gravity="end"
                     android:layout_margin="10dp"
-                    android:src="@mipmap/e_mail"
-                    app:siBorderColor="#fff"
-                    app:siBorderWidth="1dp" />
+                    android:src="@mipmap/e_mail" />
 
 
                 <LinearLayout
@@ -284,15 +273,13 @@
                 android:layout_height="wrap_content"
                 android:clickable="true">
 
-                <com.github.siyamed.shapeimageview.CircularImageView
+                <com.mikhaellopez.circularimageview.CircularImageView
                     android:id="@+id/company_image"
                     android:layout_width="45dp"
                     android:layout_height="45dp"
                     android:layout_gravity="end"
                     android:layout_margin="10dp"
-                    android:src="@mipmap/company"
-                    app:siBorderColor="#fff"
-                    app:siBorderWidth="1dp" />
+                    android:src="@mipmap/company" />
 
 
                 <LinearLayout

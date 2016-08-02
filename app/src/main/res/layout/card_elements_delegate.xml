@@ -47,16 +47,14 @@
                     android:layout_height="wrap_content" />
             </LinearLayout>
 
-            <com.github.siyamed.shapeimageview.CircularImageView
+            <com.mikhaellopez.circularimageview.CircularImageView
                 android:id="@+id/element_logo"
                 android:layout_width="50dp"
                 android:layout_height="50dp"
                 android:layout_gravity="end"
                 android:layout_margin="2dp"
                 android:padding="5dp"
-                android:layout_centerVertical="true"
-                app:siBorderWidth="1dp"
-                app:siBorderColor="@color/white"/>
+                android:layout_centerVertical="true" />
 
             <android.support.v7.widget.AppCompatCheckBox
                 android:id="@+id/element_checkbox"

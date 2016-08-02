@@ -23,10 +23,9 @@ import android.widget.Toast;
 import com.byteshaft.contactsharing.bluetooth.BluetoothActivity;
 import com.byteshaft.contactsharing.card.BusinessCardsList;
 import com.byteshaft.contactsharing.utils.AppGlobals;
-
 import com.byteshaft.contactsharing.utils.BitmapWithCharacter;
 import com.byteshaft.contactsharing.utils.Helpers;
-import com.github.siyamed.shapeimageview.CircularImageView;
+import com.mikhaellopez.circularimageview.CircularImageView;
 
 import java.util.Random;
 
